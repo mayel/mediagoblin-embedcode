@@ -15,11 +15,9 @@ This plugin has been tested with mediagoblin 0.9.0
 Set up the plugin
 =================
 
-1. Retrieve the plugin from its public git repository.
+1. Clone the plugin from its public git repository.
 
 ::
-
-  $ git clone https://github.com/ayleph/mediagoblin-embedcode.git
 
 2. Copy the plugin to your MediaGoblin plugin path.
 
